@@ -8,11 +8,11 @@ Start a dot is a game with designed UI and interacte logic. And here are some sc
 
 exe file has already generated, play it under Windows system :)
 
-![title](/home/penway/Documents/Start_A_Dot/screenshot/choose page.png)
+![title](https://github.com/penway/Start_A_Dot/blob/main/screenshot/choose%20page.png)
 
-![title](/home/penway/Documents/Start_A_Dot/screenshot/barrage crazy mode.png)
+![title](https://github.com/penway/Start_A_Dot/blob/main/screenshot/barrage%20crazy%20mode.png)
 
-![title](/home/penway/Documents/Start_A_Dot/screenshot/barrage 4.png)
+![title](https://github.com/penway/Start_A_Dot/blob/main/screenshot/barrage%204.png)
 
-![barrage crazy mode](/home/penway/Documents/Start_A_Dot/screenshot/barbel.png)
+![barrage crazy mode](https://github.com/penway/Start_A_Dot/blob/main/screenshot/barbel.png)
 
